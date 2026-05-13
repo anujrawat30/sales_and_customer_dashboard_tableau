@@ -1,7 +1,7 @@
 # 📊 Sales & Customer Performance Analytics
 The Sales & Customer Performance Analytics dashboards are visually engaging, dynamic and interactive dashboards designed to help sales managers, executives, and marketing teams analyze year-over-year sales performance, customer behavior, and business trends. The dashboards provide actionable insights into revenue growth, sales patterns, customer segments, and engagement metrics to support data-driven decision-making. 
 
-## Porpose:
+## Purpose:
 ### 📈 Sales Dashboard – Purpose Summary
 
 An interactive Tableau dashboard designed to monitor and analyze sales performance through KPI tracking, year-over-year comparisons, sales trends, product subcategory insights, and weekly sales & profit analysis. It helps stakeholders identify growth patterns, high-performing categories, and areas requiring business attention.
